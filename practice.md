@@ -1,0 +1,1 @@
+This file and folder is meant to practice as many uestions, questions  given in practice pdf to get hold on the learning given by faculty, we will try ourself, refer chatgpt, google, bing , stackoverflow, realpython.org, w3schools, or any resources available on internet to solve the questions, please provide your input to the 
